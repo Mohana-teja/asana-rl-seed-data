@@ -1,0 +1,4 @@
+faker
+python-dateutil
+tqdm
+sqlite-utils
